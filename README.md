@@ -7,13 +7,13 @@
 
 # How to Use ?
 
-It's very easy to use, just follow the steps below...
+It's very easy to use, just follow this steps below...
 
 1 - Open the "Config.json" file to configure it with any editor
 
-    - First, Set your preferred extension
+    - First, Set your preferred extension ( Default=mp4 )
     - Second, Set your directory to save
-    - Third, set the url of the youtube videos in the list
+    - Third, Set your videos URL in the list
     
     For example :
         {
