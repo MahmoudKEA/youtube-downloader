@@ -1,6 +1,8 @@
 # What is Youtube-Downloader ?
 
-    - Youtube-Downloader is a simple and easy tool to help students download their study materials from YouTube.
+    - Youtube-Downloader is a simple and easy tool to help
+      students download their study materials from YouTube.
+      
     - Powered by Eng.Mahmoud Khaled
 
 # How to Use ?
