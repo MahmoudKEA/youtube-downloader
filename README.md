@@ -30,8 +30,8 @@ It's very easy to use, just follow the steps below...
     - Finally save your changes
     
 2 - Run the python script or execute the exe file to get started
+<a href="https://ibb.co/mvsZj4d"><img src="https://i.ibb.co/bHhw0XY/2020-12-10-184140.png" alt="2020-12-10-184140" border="0"></a>
 
 # Requirements
     - Python 3 or above in case run as scripting
 
-<a href="https://ibb.co/mvsZj4d"><img src="https://i.ibb.co/bHhw0XY/2020-12-10-184140.png" alt="2020-12-10-184140" border="0"></a>
