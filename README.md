@@ -1,6 +1,4 @@
-# Youtube-Downloader
-
-# How to Use ?
+# How to Use Youtube-Downloader ?
 
 It's very easy to use, just follow the steps below...
 
