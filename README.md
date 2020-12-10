@@ -5,6 +5,7 @@ How to Use ?
 It's very easy to use, just follow the steps below...
 
 1 - Open the "Config.json" file to configure it
+
     - First, Set your preferred extension
     - Second, Set your directory to save
     - Third, set the url of the youtube videos in the list
