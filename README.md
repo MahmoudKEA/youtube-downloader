@@ -22,8 +22,8 @@ It's very easy to use, just follow the steps below...
           ]
         }
         
-    - Finally save your changes
     - Note: Don't remove or change the script syntax like this ( {}[]",: ) chars,
             because this may cause errors
-
+    - Finally save your changes
+    
 2 - Run the python script or execute the exe file to get started
