@@ -1,5 +1,5 @@
 # Youtube-Downloader is a simple and easy tool to help students download their study materials from YouTube
-# Powered by Engineer Mahmoud Khaled
+# Powered by Eng.Mahmoud Khaled
 
 import os
 import json
