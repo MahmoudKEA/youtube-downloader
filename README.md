@@ -1,10 +1,10 @@
 # Youtube-Downloader
 
-How to Use ?
+# How to Use ?
 
 It's very easy to use, just follow the steps below...
 
-1 - Open the "Config.json" file to configure it
+1 - Open the "Config.json" file to configure it with any editor
 
     - First, Set your preferred extension
     - Second, Set your directory to save
@@ -27,3 +27,6 @@ It's very easy to use, just follow the steps below...
     - Finally save your changes
     
 2 - Run the python script or execute the exe file to get started
+
+# Requirements
+    - Python 3 or above in case run as scripting
